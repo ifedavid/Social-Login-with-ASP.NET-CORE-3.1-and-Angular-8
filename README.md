@@ -8,11 +8,11 @@ Then returns some data which includes the JWT to Angular so you can add the JWT 
 If you have any issues, you can reach out to me.
 
 
-#Connection string in AppSettings
+# Connection string in AppSettings
 Don't forget to change the connection string in the appsettings.Json file.
 
-#Google and Facebook App ID
+# Google and Facebook App ID
 In the app.module.ts, please add your facebook and google application Id.
 
-#Todo
+# Todo
 Maybe work on some styling.

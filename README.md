@@ -14,5 +14,9 @@ Don't forget to change the connection string in the appsettings.Json file.
 # Google and Facebook App ID
 In the app.module.ts, please add your facebook and google application Id.
 
+# References
+Read my article to understand more https://medium.com/building-a-simple-text-correction-tool/third-party-authentication-with-angular-and-asp-net-core-web-api-bfa10d169e47
+
 # Todo
 Maybe work on some styling.
+

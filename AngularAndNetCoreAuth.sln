@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAndNetCoreAuth", "AngularAndNetCoreAuth\AngularAndNetCoreAuth.csproj", "{003DB3E9-F659-433B-A3D5-DF4159B4F2CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003DB3E9-F659-433B-A3D5-DF4159B4F2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003DB3E9-F659-433B-A3D5-DF4159B4F2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003DB3E9-F659-433B-A3D5-DF4159B4F2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003DB3E9-F659-433B-A3D5-DF4159B4F2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A24C9B6-9F57-447D-B088-3A15F61F5BA7}
+	EndGlobalSection
+EndGlobal

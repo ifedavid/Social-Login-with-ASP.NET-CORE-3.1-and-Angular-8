@@ -1,0 +1,28 @@
+
+  <div style="text-align:center;" class="container LoginPage">
+    <h5>{{resultMessage}}</h5>
+
+    <div>
+      <button style="color:#64b2cd" (click)="signInWithGoogle('Google')" class="btn bth-outline-light">
+        <img style="vertical-align:-2px;" height="20" width="20" src="../../assets/search.svg" />
+        Start with Google
+      </button>
+    </div>
+
+
+
+    <div style="Padding-top:1em;">
+      <button style="color:#64b2cd" (click)="signInWithFacebook('Facebook')" class="btn bth-outline-light">
+        <img style="vertical-align:-2px;" width="20" height="20" src="../../assets/facebook.svg" />
+        Start with Facebook
+      </button>
+
+    </div>
+
+    <div style="padding-top:1em;">
+      <button (click)="signOut()" class="btn btn-success Facebook">Sign Out</button>
+    </div>
+    <ngx-loading [show]="loading"></ngx-loading>
+
+
+  </div>
